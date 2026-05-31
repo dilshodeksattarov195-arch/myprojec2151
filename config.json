@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfecrypt",
+        "uuid": 14125617,
+        "checksum": "csxe1q"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
